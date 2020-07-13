@@ -1,0 +1,19 @@
+DBName=KillCC_ProcessDB
+DBVer=20-07-14_v02
+Creative Cloud.exe
+Adobe CEF Helper.exe
+Adobe Desktop Service.exe
+Adobe Installer.exe
+AdobeIPCBroker.exe
+AdobeNotificationClient.exe
+AdobeNotificationHelper.exe
+AdobeUpdateService.exe
+AdobeServiceInstaller.exe
+AGMService.exe
+AGSService.exe
+agshelper.exe
+CCLibrary.exe
+CCXProcess.exe
+CoreSync.exe
+Creative Cloud Helper.exe
+Creative Cloud.exe
